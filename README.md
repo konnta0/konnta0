@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://profile.konnta0.com/
+https://profile.konnta0.net/
 
 ![](https://raw.githubusercontent.com/konnta0/profile_summary_cards/master/profile-summary-card-output/dracula/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/konnta0/profile_summary_cards/master/profile-summary-card-output/dracula/1-repos-per-language.svg)
